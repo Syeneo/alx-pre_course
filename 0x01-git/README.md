@@ -1,1 +1,1 @@
-My non-empty repo
+My ALX beginner journey 
