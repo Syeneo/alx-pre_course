@@ -1,2 +1,1 @@
-Non empty repo
-My first readme
+My alx beginner path.
